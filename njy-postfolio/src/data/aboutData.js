@@ -1,0 +1,6 @@
+export const aboutData = {
+    title: "Who I am",
+    description1: "I'm Ng Jian Yong, a software development student looking for an internship or full-time position in your company. A short introduction about me, I'm 22 years old and currently studying at Utmspace. Currently, I have just completed my full-time studies for 1 year and am preparing to study part-time for another year. Part-time study means that I study 1 night on weekdays and Saturdays. I can speak and write well in Mandarin, Bahasa Melayu, and English. To be honest this will be my first job placement. But I have experience in projects combining them with my academic modules. My technical skills are more in web development. I have frontend experience like HTML, CSS, JavaScript, and React while my backend is more based on Spring which is Java based. For the database part, I learned MySQL.",
+    description2: "For more information about me and my skills, you can have a look at my attached resume. If you need any additional details from me, please don't hesitate to get in touch. Either you can WhatsApp me on011-36628266",
+    image: 2
+}
